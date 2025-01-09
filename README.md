@@ -23,7 +23,9 @@ A user-friendly web application to calculate tips and split bills among people. 
 [Visit the Tip Calculator](#) *(https://ProgrammerKR.github.io/tip_calculator.kr/)*
 
 ## Screenshots
-*(!preview1.jpg)*
+![Screenshot of Tip Calculator](preview1.jpg)
+![Screenshot of Tip Calculator](preview2.jpg)
+
 
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and share it.
