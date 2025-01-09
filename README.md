@@ -20,7 +20,7 @@ A user-friendly web application to calculate tips and split bills among people. 
 4. Click "Calculate" to view the detailed breakdown.
 
 ## Live Demo
-[Visit the Tip Calculator](#https://ProgrammerKR.guthub.io/tip_calculator.kr/) *(Add your deployment link here)*
+[Visit the Tip Calculator](#) *(https://ProgrammerKR.guthub.io/tip_calculator.kr/)*
 
 ## Screenshots
 *(Add screenshots here to showcase the app's UI and functionality)*
